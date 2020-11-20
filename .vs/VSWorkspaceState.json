@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\android\\app\\src",
+    "\\android\\app\\src\\main",
+    "\\App",
+    "\\App\\Helper",
+    "\\App\\Helper\\Router",
+    "\\App\\Screen\\Home"
+  ],
+  "SelectedNode": "\\App\\index.tsx",
+  "PreviewInSolutionExplorer": false
+}
